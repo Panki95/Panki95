@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panki95
-- 👀 I’m interested in cinematopraphy, photography and perhaps programming.
+- 👀 I’m interested in cinematopraphy, photography and obviously programming.
 - 🌱 I’m currently learning from CS50. So scratch, C and etc.
 - 💞️ I’m looking to collaborate on nothing yet i think :D i'm still learning.
 - 📫 How to reach me: pis.kia74@gamil.com
